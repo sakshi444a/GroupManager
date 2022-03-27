@@ -9,17 +9,17 @@ A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
 Can be found on telegram as [GroupManager](https://t.me/tg_groupmanagerbot).
 
-Alternatively, [find me on telegram](https://t.me/xditya)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/hmko_jante)! (Keep all support questions in the support chat, where more people can help you.)
 
 You can also join our support group [here!](https://t.me/tg_groupmanagerbot)
 
 # Group
-[Join Discuss Group](https://t.me/giveaways_24hrs)
+[Join Discuss Group](https://t.me/secretland_xd)
 
 # Report error
-Report your problem along with your name to [this person](https://t.me/xditya)
+Report your problem along with your name to [this person](https://t.me/hmko_jante)
 
 # Credits
 This repo is just a custom fork of [HarukaAya](https://gitlab.com/HarukaNetwork/OSS/HarukaAya)
 
-Thanks to the [real developer](https://t.me/RealAkito)!
+Thanks to the [real developer](https://t.me/hmko_jante)!
